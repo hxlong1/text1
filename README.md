@@ -6,5 +6,4 @@
 5、main函数调用calculateInjections函数来执行计算和打印操作。
 
 运行结果：
-![运行图片](https://github.com/hxlong1/text1/assets/161918870/1c48f99d-d92f-45ca-b85d-272b9cd7cc98)
-
+![运行图片](https://github.com/hxlong1/text1/assets/161918870/cabe832d-8665-46f8-9967-2fa61ad75f37)
