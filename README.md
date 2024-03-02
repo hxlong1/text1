@@ -5,6 +5,8 @@
 4、calculateInjections函数使用三层嵌套循环来遍历所有注射器类型、所有剂量类型和所有注射次数。对于每种组合，它首先计算实际的药液容量（通过将注射器容量与剂量比例相乘），然后计算单次注射剂量（通过将实际药液容量除以注射次数），并打印结果。
 5、main函数调用calculateInjections函数来执行计算和打印操作。
 
+
+![运行图片](https://github.com/hxlong1/text1/assets/161918870/1c48f99d-d92f-45ca-b85d-272b9cd7cc98)
 运行结果：
 Syringe Volume: 1.0 ml, Dose Ratio: 0.80, Injection Count: 10, Single Injection Volume: 0.0800 ml
 Syringe Volume: 1.0 ml, Dose Ratio: 0.80, Injection Count: 20, Single Injection Volume: 0.0400 ml
